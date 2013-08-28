@@ -14,10 +14,9 @@ namespace ElevatorTest
         //    int maxFloor = 10;
 
         //    List<People> peoples = new List<People>();
+        //    Random ro = new Random();
         //    for (int i = 0; i < 10; i++)
         //    {
-
-        //        Random ro = new Random(i);
         //        int currentFloor = ro.Next(1, maxFloor);
         //        int goFloor = ro.Next(1, maxFloor);
         //        while (goFloor == currentFloor)

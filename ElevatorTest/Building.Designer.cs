@@ -91,11 +91,11 @@
             // btnStop
             // 
             this.btnStop.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.btnStop.Location = new System.Drawing.Point(518, 538);
+            this.btnStop.Location = new System.Drawing.Point(502, 534);
             this.btnStop.Name = "btnStop";
-            this.btnStop.Size = new System.Drawing.Size(75, 23);
+            this.btnStop.Size = new System.Drawing.Size(99, 39);
             this.btnStop.TabIndex = 1;
-            this.btnStop.Text = "Stop";
+            this.btnStop.Text = "Start";
             this.btnStop.UseVisualStyleBackColor = false;
             // 
             // Building
